@@ -82,7 +82,7 @@ Rede: 192.168.10.0/24
 
 ## Documentação
 
-Para informações detalhadas sobre a infraestrutura, configurações e desenvolvimento do projeto, consulte a [wiki do repositório](https://github.com/reginaldotfilho/Rocket-Solutions/wiki).
+Para informações detalhadas, sobre a infraestrutura, configurações e desenvolvimento do projeto, consulte a [wiki do repositório](https://github.com/reginaldotfilho/Rocket-Solutions/wiki).
 
 ---
 
