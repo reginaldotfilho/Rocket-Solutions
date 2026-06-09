@@ -44,6 +44,46 @@ a ser realizado...
 
 tem que fazer po
 
+```mermaid
+graph TD
+
+Internet[Internet]
+
+Firewall[Firewall<br>192.168.10.1]
+
+Switch[Switch Principal]
+
+AD[Windows Server<br>192.168.10.10]
+
+WP[Servidor WordPress<br>192.168.10.20]
+
+Tomcat[Servidor Tomcat<br>192.168.10.30]
+
+Printer[Impressora de Rede<br>192.168.10.50]
+
+AP[Access Point<br>192.168.10.60]
+
+PC1[Computador Administrativo]
+PC2[Computador Financeiro]
+PC3[Computador Suporte]
+PC4[Computador Recepção]
+
+Internet --> Firewall
+
+Firewall --> Switch
+
+Switch --> AD
+Switch --> WP
+Switch --> Tomcat
+Switch --> Printer
+Switch --> AP
+
+Switch --> PC1
+Switch --> PC2
+Switch --> PC3
+Switch --> PC4
+```
+
 ---
 
 ## Plano de Endereçamento IP
