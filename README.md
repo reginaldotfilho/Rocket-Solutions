@@ -6,13 +6,9 @@ Implantação da Infraestrutura de TI de uma Empresa Prestadora de Serviços.
 
 ---
 
-## Descrição
+## Identidade da Empresa
 
 A Rocket Solutions é uma empresa voltada para a área de tecnologia da informação, com foco na implementação de soluções corporativas, suporte aos usuários e gerenciamento de infraestrutura de redes e servidores.
-
----
-
-## Identidade da Empresa
 
 ### Missão
 
